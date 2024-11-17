@@ -27,7 +27,7 @@ header, nav, main, footer {
 img {
     max-width: 100%;
     height: auto;
-    border-radius: 10px; /* Zaoblenie rohov pre všetky obrázky */
+    border-radius: 10px;
 }
 
 h1 {
@@ -65,7 +65,7 @@ nav .logo {
 nav .logo img {
     height: 50px;
     margin-right: 10px;
-    border-radius: 0; /* Logo bez zaoblenia rohov */
+    border-radius: 0; 
 }
 
 nav ul {
@@ -150,7 +150,7 @@ main p {
 .two-column .column img {
     max-width: 100%;
     height: auto;
-    border-radius: 10px; /* Zaoblenie rohov pre obrázky v dvojstĺpcovom layoute */
+    border-radius: 10px; 
 }
 
 .main-image {
@@ -158,7 +158,7 @@ main p {
     max-height: 400px;
     object-fit: contain;
     margin-bottom: 20px;
-    border-radius: 10px; /* Zaoblenie rohov pre hlavné obrázky */
+    border-radius: 10px; 
 }
 
 .pricing-list {
